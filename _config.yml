@@ -58,10 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Sunny Suh"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-link"
+      url:mailto:gogo4reve@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
